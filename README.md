@@ -2,6 +2,8 @@
 
 Script de Processing para QGIS que gera uma camada de pontos dentro de um poligono, com grade alinhada a uma aresta do contorno e atributos prontos para uso em campo.
 
+![Screenshot do PT Maker QGIS](pt-maker-qgis.png)
+
 ## O que o script faz
 
 - Gera pontos internos em grade regular.
