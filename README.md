@@ -79,5 +79,9 @@ Script de Processing para QGIS que gera uma camada de pontos dentro de um poligo
 ## Estrutura do repositorio
 
 - `README.md`
+- `LICENSE`
 - `gerar_pontos_pt_qgis.py`
 
+## Licenca
+
+Este projeto esta licenciado sob a licenca MIT.
